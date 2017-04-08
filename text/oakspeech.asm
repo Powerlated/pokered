@@ -1,55 +1,59 @@
 _OakSpeechText1::
-	text "Hello there!"
+	text "HELLO BITCH!"
 	line "Welcome to the"
-	cont "world of #MON!"
+	cont "world of PENIS!"
 
-	para "My name is OAK!"
+	para "My name is FUCKAR!!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "the strange"
+	cont "gynecologist!"
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	line "explored by"
+	cont "pedos called"
+	cont "vagina!@@"
 
 _OakSpeechText2B::
 	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	line "they are"
+	cont "slaves. Others use"
+	cont "them for washing"
+	cont "the dishes."
 
 	para "Myself..."
 
-	para "I study #MON"
+	para "I study vaginas"
 	line "as a profession."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "First, does your"
+	line "shit taste like"
+	cont "my mom?"
 	prompt
 
 _IntroduceRivalText::
 	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	line "penis. He's been"
+	cont "your dick since"
+	cont "you were fucking."
 
 	para "...Erm, what is"
-	line "his name again?"
+	line "his"
+	cont "personality?"
 	prompt
 
 _OakSpeechText3::
 	text $52,"!"
 
 	para "Your very own"
-	line "#MON legend is"
+	line "vagina lesson is"
 	cont "about to unfold!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
+	para "A world of weird"
+	line "experiences"
+	cont "with your mom"
 	cont "awaits! Let's go!"
 	done
