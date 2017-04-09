@@ -185,7 +185,7 @@ DisplayIntroNameTextBox:
 	jp HandleMenuInput
 
 .namestring
-	db "NAME@"
+	db "HUH?@"
 
 IF DEF(_RED)
 DefaultNamesPlayer:

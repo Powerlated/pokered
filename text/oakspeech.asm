@@ -3,7 +3,7 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of PENIS!"
 
-	para "My name is FUCKAR!!"
+	para "My name is FUCKAR!"
 	line "People call me"
 	cont "the strange"
 	cont "gynecologist!"
