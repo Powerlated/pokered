@@ -40,16 +40,16 @@ _IntroduceRivalText::
 	cont "your dick since"
 	cont "you were fucking."
 
-	para "...Erm, what is"
-	line "his"
-	cont "personality?"
+	para "...Erm, what"
+	line "do you think"
+	cont "he is?"
 	prompt
 
 _OakSpeechText3::
 	text $52,"!"
 
 	para "Your very own"
-	line "vagina lesson is"
+	line "sex-ed lesson is"
 	cont "about to unfold!"
 
 	para "A world of weird"

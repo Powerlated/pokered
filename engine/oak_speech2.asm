@@ -196,19 +196,19 @@ DefaultNamesPlayer:
 	db   "@"
 
 DefaultNamesRival:
-	db   "NEW NAME"
-	next "BLUE"
-	next "GARY"
-	next "JOHN"
+	db   "IDK"
+	next "DICKASS"
+	next "SUCKDIQ"
+	next "DICKFAC"
 	db   "@"
 ENDC
 
 IF DEF(_BLUE)
 DefaultNamesPlayer:
-	db   "NEW NAME"
-	next "BLUE"
-	next "GARY"
-	next "JOHN"
+	db   "IDK"
+	next "YES"
+	next "NO"
+	next "MAYBE"
 	db   "@"
 
 DefaultNamesRival:
