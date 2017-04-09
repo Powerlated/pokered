@@ -212,10 +212,10 @@ DefaultNamesPlayer:
 	db   "@"
 
 DefaultNamesRival:
-	db   "NEW NAME"
-	next "RED"
-	next "ASH"
-	next "JACK"
+	db   "IDK"
+	next "DICKASS"
+	next "SUCKDIQ"
+	next "DICKFAC"
 	db   "@"
 ENDC
 

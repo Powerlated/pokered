@@ -500,10 +500,10 @@ PrintNamingText:
 	jp PlaceString
 
 YourTextString:
-	db "WHATCHA THINK?"
+	db "WHATCHA THINK?@"
 
 RivalsTextString:
-	db "WHATCHA THINK?"
+	db "WHATCHA THINK?@"
 
 NameTextString:
 	db "NAME?@"
