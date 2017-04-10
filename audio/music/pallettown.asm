@@ -1,5 +1,5 @@
 Music_PalletTown_Ch0::
-	tempo 160
+	tempo 320
 	volume 7, 7
 	duty 2
 	notetype 12, 12, 3
