@@ -1,5 +1,7 @@
 INCLUDE "constants.asm"
 
+
+	
 NPC_SPRITES_1 EQU $4
 NPC_SPRITES_2 EQU $5
 
@@ -12,7 +14,6 @@ PICS_4 EQU $C
 PICS_5 EQU $D
 
 INCLUDE "home.asm"
-
 
 SECTION "bank1",ROMX[$4000],BANK[$1]
 
@@ -2094,3 +2095,4 @@ INCLUDE "engine/evolution.asm"
 INCLUDE "engine/overworld/elevator.asm"
 
 INCLUDE "engine/items/tm_prices.asm"
+

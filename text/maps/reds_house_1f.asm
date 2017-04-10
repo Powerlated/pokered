@@ -1,7 +1,9 @@
 _MomWakeUpText::
 	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
+	line "All boys get"
+	cont "puberty"
+	cont "and their balls"
+	cont "drop some day."
 	cont "It said so on TV."
 
 	para "PROF.OAK, next"
@@ -11,25 +13,28 @@ _MomWakeUpText::
 
 _MomHealText1::
 	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	line "You should suck a"
+	cont "dick later, but"
+	cont "first, you need"
+	cont "to take a rest."
 	prompt
 
 _MomHealText2::
 	text "MOM: Oh good!"
 	line "You and your"
-	cont "#MON are"
+	cont "balls are"
 	cont "looking great!"
 	cont "Take care now!"
 	done
 
 _StandByMeText::
-	text "There's a movie"
-	line "on TV. Four boys"
+	text "There's a porn"
+	line "on TV. Four gays"
 	cont "are walking on"
 	cont "railroad tracks."
 
-	para "I better go too."
+	para "I better do that"
+	line "too."
 	done
 
 _TVWrongSideText::
