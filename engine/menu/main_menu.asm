@@ -329,7 +329,7 @@ SpecialEnterMap:
 	jp EnterMap
 
 ContinueText:
-	db "LOAD IT UP IN YOUR ASS", $4e
+	db "LOAD IT UP", $4e
 
 NewGameText:
 	db   "FRESH CUM"
