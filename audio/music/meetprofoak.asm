@@ -1,5 +1,5 @@
 Music_MeetProfOak_Ch0::
-	tempo 112
+	tempo 50
 	volume 7, 7
 	duty 3
 	toggleperfectpitch
